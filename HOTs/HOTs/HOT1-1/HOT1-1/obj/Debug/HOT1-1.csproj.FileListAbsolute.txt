@@ -1,0 +1,8 @@
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\bin\Debug\HOT1-1.exe.config
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\bin\Debug\HOT1-1.exe
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\bin\Debug\HOT1-1.pdb
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\obj\Debug\HOT1-1.csproj.AssemblyReference.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\obj\Debug\HOT1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\obj\Debug\HOT1-1.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\obj\Debug\HOT1-1.exe
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-1\HOT1-1\obj\Debug\HOT1-1.pdb

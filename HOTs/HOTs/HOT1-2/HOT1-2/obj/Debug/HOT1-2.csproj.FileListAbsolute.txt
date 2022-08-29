@@ -1,0 +1,11 @@
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\bin\Debug\HOT1-2.exe.config
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\bin\Debug\HOT1-2.exe
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\bin\Debug\HOT1-2.pdb
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1-2.csproj.AssemblyReference.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1_2.Form1.resources
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1_2.Properties.Resources.resources
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1-2.csproj.GenerateResource.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1-2.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1-2.exe
+C:\Users\aidan\Desktop\AWD1100-Fall2022-AidanWard\HOTs\HOTs\HOT1-2\HOT1-2\obj\Debug\HOT1-2.pdb
